@@ -1,0 +1,2 @@
+# CashCloseApp
+Pénztár zárás app
